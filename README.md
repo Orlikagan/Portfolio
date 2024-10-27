@@ -11,3 +11,5 @@ example [one](./SQL//2_Oct_Nov_new%20table%20sql.sql)
 2.Jupyter notebook - representing e-commerce shop data and deep analysis including visualization.
 
 example [one](./Python/Marketing%20Portfolio.ipynb)
+
+this is a test
