@@ -8,3 +8,5 @@ The files from 1-6 are an SQL project along with the word file ,SQL Project expl
 
 2.Jupyter notebook - representing e-commerce shop data and deep analysis including visualization.
 
+3.Visualization project
+using Amazon reviews dataset
